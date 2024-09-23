@@ -14,7 +14,7 @@ Looking to team up on UI/UX design and innovative Web Development projects that 
 Eager to connect with like-minded developers for advice and knowledge exchange to elevate my dev game.
 
 📬 Let’s Chat:
-Feel free to drop me a line at amanb91544@gmail.com – I’m always up for exciting opportunities!
+Feel free to drop me a line at amanb9154@gmail.com – I’m always up for exciting opportunities!
 
 🌐 My Digital Playground:
 [Aman Kumar Bhati - Portfolio](https://portfolio-aman1.netlify.app/) – Step into my world of code, creativity, and innovation.
