@@ -32,7 +32,7 @@ Feel free to drop me a line at amanb91544@gmail.com – I’m always up for exci
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="shreyasingh2203"
+      alt="amanb9154"
       height="30"
       width="40"
   /></a>
@@ -40,7 +40,7 @@ Feel free to drop me a line at amanb91544@gmail.com – I’m always up for exci
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="shreya singh"
+      alt="amanb9154"
       height="30"
       width="40"
   /></a>
@@ -48,7 +48,7 @@ Feel free to drop me a line at amanb91544@gmail.com – I’m always up for exci
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-      alt="25116996"
+      alt="amanb9154"
       height="30"
       width="40"
   /></a>
@@ -56,7 +56,7 @@ Feel free to drop me a line at amanb91544@gmail.com – I’m always up for exci
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-      alt="singhvanshika2203"
+      alt="amanb9154"
       height="30"
       width="40"
   /></a>
@@ -64,28 +64,18 @@ Feel free to drop me a line at amanb91544@gmail.com – I’m always up for exci
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
-      alt="singhvanspjxx"
+      alt="amanb9154"
       height="30"
       width="40"
   /></a>
-  <a href="https://your-wordpress-link.com" target="_blank">
-  <img 
-    align="center" 
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/wordpress.svg" 
-    alt="WordPress" 
-    height="30" 
-    width="40"/>
-</a>
 <a href="https://join.skype.com/invite/qGq0vPZGPnWe" target="_blank">
   <img 
     align="center" 
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" 
-    alt="Skype" 
+    alt="amanb9154" 
     height="30" 
     width="40"/>
 </a>
-
-
 </p>
 
 
