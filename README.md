@@ -70,6 +70,13 @@ Feel free to drop me a line at amanb9154@gmail.com – I’m always up for excit
     height="30" 
     width="40"/>
 </a>
+   <a href="https://www.naukri.com/code360/profile/amanb9154" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Coding_Ninjas_Logo.svg/1200px-Coding_Ninjas_Logo.svg.png" 
+     alt="Amanbhati" 
+     height="30" 
+     width="40"/>
+</a>
+
 </p>
 
 
