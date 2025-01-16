@@ -12,7 +12,7 @@ Eager to connect with like-minded developers for advice and knowledge exchange t
 - 📬 **Let’s Chat:**
 Feel free to drop me a line at amanb9154@gmail.com – I’m always up for exciting opportunities!
 - 🌐 **My Digital Playground:**
-[Aman Kumar Bhati - Portfolio](https://portfolio-aman1.netlify.app/) – Step into my world of code, creativity, and innovation.
+[Aman Kumar Bhati - Portfolio](https://aman-s-portfolio.vercel.app/) – Step into my world of code, creativity, and innovation.
 - 😄 Pronouns: He/Him
 
 
